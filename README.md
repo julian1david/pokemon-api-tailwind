@@ -4,6 +4,8 @@ Genera un pokemon aleatorio.
 
 ## Vista del proyecto 🚀
 
+#Actually i'm building the page, i have problem's with gh-pages see you soon ! I promise ! 
+
 Mira **[Pokemon-API](https://julian1david.github.io/pokemon-api-tailwind)** para conocer como funciona el proyecto.
 
 
