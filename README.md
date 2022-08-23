@@ -6,24 +6,21 @@ Genera un pokemon aleatorio.
 
 #Actually i'm building the page, i have problem's with gh-pages see you soon ! I promise ! 
 
-Mira **[Pokemon-API](https://julian1david.github.io/pokemon-api-tailwind)** para conocer como funciona el proyecto.
+Mira **[Pokemon-API-Tailwind]()** para conocer como funciona el proyecto.
 
 
 ### Instalación 🔧
 
 ```
-git clone git@github.com:julian1david/pokemon-api-tailwind.git
+git clone git@github.com:julianf-dev/pokemon-api-tailwind.git
 ```
 ### 
 ```
-npm start
+yarn install 
+
+yarn run dev
+
 ```
-
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
-
-The page will reload if you make edits.
-You will also see any lint errors in the console.
 
 ### npm run build
 
@@ -36,6 +33,8 @@ Your app is ready to be deployed!
 * JavaScript 
 * HTML
 * CSS
+* TAILWIND
+* VITE
 
 ## Contribuyendo 🖇️
 
@@ -43,7 +42,7 @@ Cualquier contirbución al proyecto es bien recibida !
 
 ## Autor ✒️
 
-* **Julian F**  - [julian1f](https://github.com/julian1david)
+* **Julian F**  - [julian1f](https://github.com/julianf-dev)
 
 
 ## Licencia 📄
@@ -51,4 +50,4 @@ Cualquier contirbución al proyecto es bien recibida !
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE](LICENSE) para detalles
 
 ---
-Hecho con ❤️ por [julian1f](https://github.com/julian1david) 😊
+Hecho con ❤️ por [julian1f](https://github.com/julianf-dev) 😊
