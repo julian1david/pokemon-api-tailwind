@@ -6,7 +6,7 @@ Genera un pokemon aleatorio.
 
 #Actually i'm building the page, i have problem's with gh-pages see you soon ! I promise ! 
 
-Mira **[Pokemon-API-Tailwind]()** para conocer como funciona el proyecto.
+Mira **[Pokemon-API-Tailwind](https://julianf-devpokemon-api-tailwind.netlify.app/)** para conocer como funciona el proyecto.
 
 
 ### Instalación 🔧
